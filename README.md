@@ -1,5 +1,21 @@
 # 💫 About Me:
-I'm currently working as an indie game developer and designer.<br>I'm looking to collaborate with indie game devs for a startup.<br>I'm looking for help with a open world Adventure.<br>I'm currently learning 3D Modelling and rendering along with low code no code development.
+Hi! I’m an indie game developer passionate about creating unique and memorable gaming experiences. My journey is all about blending creativity with code—bringing ideas to life from scratch. I love working solo or in small teams, wearing many hats: programming, game design, pixel art, and sound. I’m always learning new tools and tech to push my games further.
+
+What I do:
+
+Build games from concept to launch
+Design engaging gameplay and mechanics
+Craft pixel art and original soundtracks
+Share devlogs, prototypes, and open projects
+What I love:
+
+Game jams and rapid prototyping
+Community feedback and collaboration
+Experimenting with game engines (Unity, Godot, etc.)
+Supporting other indie creators
+Let’s connect! I’m always open to feedback, collabs, or just chatting about games.
+
+
 
 
 ## 🌐 Socials:
